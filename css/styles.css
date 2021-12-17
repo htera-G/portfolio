@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,700;1,900&display=swap");
+
+body {
+    font-family: "Source Code Pro", monospace;
+}
+
+/* intro */
+
+#intro {
+    background-color: #323232;
+    padding: 4rem;
+    text-align: center;
+}
+
+.intro-heading {
+    font-size: 8em;
+    color: #14ffec;
+    font-weight: 900;
+}
+
+.intro-subheading {
+    color: #0d7377;
+    margin-top: 4rem;
+    font-size: 4rem;
+}
+
+/* navbar */
+
+#brand {
+    color: #14ffec;
+    font-weight: 900;
+}
+
+#main-navbar {
+    background-color: #212121;
+}
+
+#nav-link-intro {
+    color: #0d7377;
+    font-weight: 400;
+}
+
+#nav-link-skills {
+    color: #0d7377;
+    font-weight: 400;
+}
+
+#nav-link-previous-work {
+    color: #0d7377;
+    font-weight: 400;
+}
+
+/* skills */
+
+#skills {
+    background-color: #212121;
+    padding: 4rem 12rem;
+    text-align: center;
+}
+
+.skills-heading {
+    color: #14ffec;
+    font-size: 4.5rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+/* .skill-item-left {
+    color: #0D7377;
+    font-size: 3rem;
+}
+
+.skill-item-right {
+    color: #0D7377;
+    font-size: 3rem;
+    text-align: right;
+} */
+
+.skill-item {
+    color: #0d7377;
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.skill-div {
+    padding-top: 1.2rem;
+}
+
+#html-icon {
+    color: #14ffec;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#css-icon {
+    color: #14ffec;
+    text-align: center;
+}
+
+#js-icon {
+    color: #14ffec;
+    text-align: center;
+}
+
+#bootstrap-icon {
+    color: #14ffec;
+    text-align: center;
+}
